@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "ZUFk8avLCNNsLVbbUJAm9DpdUsvXx4Wc2DwPU11Ae1w=",
+  "Source": "StripeWebhook",
+  "BasePath": "_content/StripeWebhook",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
